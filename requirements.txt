@@ -23,7 +23,7 @@ Flask-Mail==0.9.1
 future==0.16.0
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 js==1.0
 kombu==3.0.30
 lxml==4.0.0
