@@ -32,7 +32,7 @@ Markdown==2.6.9
 MarkupSafe==0.23
 postgres==2.2.1
 psycopg2==2.7.3.1
-py==1.4.34
+py==1.10.0
 pycparser==2.18
 Pygments==2.2.0
 pygments-markdown-lexer==0.1.0.dev39
