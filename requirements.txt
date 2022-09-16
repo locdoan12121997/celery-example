@@ -27,7 +27,7 @@ Jinja2==2.7.3
 js==1.0
 kombu==3.0.30
 lxml==4.0.0
-Mako==1.0.7
+Mako==1.2.2
 Markdown==2.6.9
 MarkupSafe==0.23
 postgres==2.2.1
